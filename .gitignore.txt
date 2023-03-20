@@ -1,0 +1,9 @@
+# ovo je komentar
+# ignoriši sve datoteke u log folderu:
+log/
+# ignoriši sve tekstualne datoteke:
+*.txt
+# ali ne i datoteku 'users.txt':
+!users.txt
+# ignoriši sve css datoteke bilo gde u css folderu:
+css/**/*.css
